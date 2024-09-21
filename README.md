@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Parbhane</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/1d995d7f-d41c-40d4-8fa4-6bf3388e9e09)
+<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/1d995d7f-d41c-40d4-8fa4-6bf3388e9e09)
 
 ">
 
