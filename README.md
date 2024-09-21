@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Parbhane</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/1d995d7f-d41c-40d4-8fa4-6bf3388e9e09)
-
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajju-96&label=Profile%20views&color=0e75b6&style=flat" alt="ajju-96" /> </p>
 
